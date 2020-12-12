@@ -14,6 +14,6 @@ public interface Constantes {
     public final int const_delayRepetir = 1500; //Intervalo de tiempo entre repeticiones al mantener presionado un boton
 
     //Comunicacion
-    public final String const_ip = "localhost";
-    public final int const_puerto = 100;
+    public final String const_serv_ip = "localhost";
+    public final int const_serv_puert = 6666;
 }
